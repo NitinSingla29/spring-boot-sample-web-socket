@@ -7,3 +7,6 @@ This is a sample web socket application based on spring boot
 
 ######To run this project from within Maven use
     mvn spring-boot:run
+
+######Application end point
+    ws://localhost:8080/ws
